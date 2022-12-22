@@ -2,6 +2,7 @@
 /**
  * rev_string - reverse a string
  * _putchar - print each character
+ * @s: check the string
  *
  * Description: This will reverse a string
  * Return: 0
