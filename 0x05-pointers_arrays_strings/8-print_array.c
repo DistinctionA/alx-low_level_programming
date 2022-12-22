@@ -2,6 +2,8 @@
 #include <stdio.h>
 /**
  * print_array - prints an element of an array of integers
+ * @a: check array
+ * @n: check inputed number
  *
  */
 void print_array(int *a, int n)
