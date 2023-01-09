@@ -9,6 +9,6 @@
  */
 int main(int argc, char **argv)
 {
-  puts(argv[argc - 1];
-       return(0);
+	puts(argv[argc - 1];
+	return (0);
 }
